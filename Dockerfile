@@ -2,4 +2,4 @@
 FROM rocker/shiny
 
 # Expose the application port
-EXPOSE 8180
+EXPOSE 3838
